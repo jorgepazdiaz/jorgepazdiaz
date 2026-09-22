@@ -41,6 +41,13 @@ Combino visión técnica y de negocio: lidero estrategia de calidad, equipos de 
 | [**web-integrado-utp**](https://github.com/jorgepazdiaz/web-integrado-utp) | Proyecto integrador web (curso UTP) | Java |
 | [**poo_utp**](https://github.com/jorgepazdiaz/poo_utp) | Prácticas de Programación Orientada a Objetos (curso UTP) | Java |
 
+### 📊 Actividad
+
+![Followers](https://img.shields.io/github/followers/jorgepazdiaz?style=for-the-badge&logo=github&label=Followers&color=6C4AB6)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C4AB6&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjorgepazdiaz)
+
+*(El gráfico de contribuciones y actividad completa se muestra automáticamente más abajo en tu perfil de GitHub.)*
+
 ---
 
 <div align="center">
